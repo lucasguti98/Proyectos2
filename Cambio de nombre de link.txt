@@ -1,0 +1,4 @@
+Hola, habia puesto el link mal del proyecto la primera vez, el nuevo link es https://lucasguti98.github.io/ de la
+pagina y https://github.com/lucasguti98/lucasguti98.github.io del repositorio. Igualmente aqui tambien puse los 
+archivos del proyectos pero sin el link que contiene .github.io. Hable con el soporte pero me dijeron que no podia modificar
+el link de entrega. Saludos y disculpas por el error.
